@@ -1,0 +1,72 @@
+{
+    "sales2000": [
+        {"month": "January", "amount": 10000, "colorcode": "red"},
+        {"month": "February", "amount": 13000, "colorcode": "blue"},
+        {"month": "March", "amount": 11000, "colorcode": "yellow"},
+        {"month": "April", "amount": 23000, "colorcode": "green"},
+        {"month": "May", "amount": 24000, "colorcode": "orange"},
+        {"month": "June", "amount": 14000, "colorcode": "sky"},
+        {"month": "July", "amount": 15000, "colorcode": "red"},
+        {"month": "August", "amount": 16000, "colorcode": "purple"},
+        {"month": "September", "amount": 21000, "colorcode": "pink"},
+        {"month": "October", "amount": 25000, "colorcode": "orange"},
+        {"month": "November", "amount": 29000, "colorcode": "grey"},
+        {"month": "December", "amount": 40000, "colorcode": "black"}
+    ],
+    "sales2001": [
+        {"month": "January", "amount": 20000, "colorcode": "red"},
+        {"month": "February", "amount": 26000, "colorcode": "blue"},
+        {"month": "March", "amount": 22000, "colorcode": "yellow"},
+        {"month": "April", "amount": 25000, "colorcode": "green"},
+        {"month": "May", "amount": 24000, "colorcode": "orange"},
+        {"month": "June", "amount": 14000, "colorcode": "sky"},
+        {"month": "July", "amount": 15000, "colorcode": "red"},
+        {"month": "August", "amount": 16000, "colorcode": "purple"},
+        {"month": "September", "amount": 21000, "colorcode": "pink"},
+        {"month": "October", "amount": 25000, "colorcode": "orange"},
+        {"month": "November", "amount": 29000, "colorcode": "grey"},
+        {"month": "December", "amount": 40000, "colorcode": "black"}
+    ],
+    "sales2002": [
+        {"month": "January", "amount": 30000, "colorcode": "red"},
+        {"month": "February", "amount": 39000, "colorcode": "blue"},
+        {"month": "March", "amount": 33000, "colorcode": "yellow"},
+        {"month": "April", "amount": 25000, "colorcode": "green"},
+        {"month": "May", "amount": 24000, "colorcode": "orange"},
+        {"month": "June", "amount": 14000, "colorcode": "sky"},
+        {"month": "July", "amount": 15000, "colorcode": "red"},
+        {"month": "August", "amount": 16000, "colorcode": "purple"},
+        {"month": "September", "amount": 21000, "colorcode": "pink"},
+        {"month": "October", "amount": 25000, "colorcode": "orange"},
+        {"month": "November", "amount": 29000, "colorcode": "grey"},
+        {"month": "December", "amount": 40000, "colorcode": "black"}
+    ],
+    "sales2003": [
+        {"month": "January", "amount": 40000, "colorcode": "red"},
+        {"month": "February", "amount": 52000, "colorcode": "blue"},
+        {"month": "March", "amount": 44000, "colorcode": "yellow"},
+        {"month": "April", "amount": 25000, "colorcode": "green"},
+        {"month": "May", "amount": 24000, "colorcode": "orange"},
+        {"month": "June", "amount": 14000, "colorcode": "sky"},
+        {"month": "July", "amount": 15000, "colorcode": "red"},
+        {"month": "August", "amount": 16000, "colorcode": "purple"},
+        {"month": "September", "amount": 21000, "colorcode": "pink"},
+        {"month": "October", "amount": 25000, "colorcode": "orange"},
+        {"month": "November", "amount": 29000, "colorcode": "grey"},
+        {"month": "December", "amount": 40000, "colorcode": "black"}
+    ],
+    "sales2004": [
+        {"month": "January", "amount": 35000, "colorcode": "red"},
+        {"month": "February", "amount": 52000, "colorcode": "blue"},
+        {"month": "March", "amount": 44000, "colorcode": "yellow"},
+        {"month": "April", "amount": 25000, "colorcode": "green"},
+        {"month": "May", "amount": 24000, "colorcode": "orange"},
+        {"month": "June", "amount": 34000, "colorcode": "sky"},
+        {"month": "July", "amount": 15000, "colorcode": "red"},
+        {"month": "August", "amount": 19000, "colorcode": "purple"},
+        {"month": "September", "amount": 32000, "colorcode": "pink"},
+        {"month": "October", "amount": 25000, "colorcode": "orange"},
+        {"month": "November", "amount": 29000, "colorcode": "grey"},
+        {"month": "December", "amount": 40000, "colorcode": "black"}
+    ]
+}
